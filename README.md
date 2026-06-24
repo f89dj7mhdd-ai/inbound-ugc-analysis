@@ -1,4 +1,4 @@
-# InboundScope — 観光UGCインバウンド分析（YouTube MVP）
+# Inbound UGC Analysis — 観光UGCインバウンド分析（YouTube MVP）
 
 > 観光地名を入れると、YouTube上のUGCを「どの市場（言語・地域）に・どの話題が効いているか」で可視化し、自治体担当者がインバウンド誘致の施策を立てられる意思決定支援ツール。
 
